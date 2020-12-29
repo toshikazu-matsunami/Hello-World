@@ -1,2 +1,3 @@
 # Hello-World
-Git-hub Training
+Git-Hubトレーニング
+松浪寿和
